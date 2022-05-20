@@ -1,4 +1,4 @@
-# MLSyPred (Machine Learining Synergy Predictor tool)
+# MLSyPred (Machine Learining Synergy Predictor tool) ©
 
 We describe a MLSyPred framework, based on a data science lifecycle project, for creating models to predict drug synergy interactions for application in combinatorial therapies for any disease. 
 It allows to include as many modules as needed to manage different data and computation methods for creating the predictive models. 
@@ -8,7 +8,7 @@ This tool allows easy reproducibility of the process to obtain the models.
 It is flexible for incorporating different data types and other implementations of ML- models or mechanistic methods for synergistic drug combinations.
 
 Contains:
-#1. MLSyPred-COMBINATION PIPELINE
+#MLSyPred-COMBINATION PIPELINE
   The purpose of this script is to be able to perform average based on the presence of Morgan Fingerprints per pair of compounds.
   There are 2048 bit Morgan fingerprints (features) and 79 drug compounds.
  
@@ -25,7 +25,7 @@ Contains:
  OUTPUT files:
   Available in the Supplementary Material
 
-#2. MLSyPred ML Models Antimalarials PIPELINE V 0.9.6
+#MLSyPred ML Models Antimalarials PIPELINE V 0.9.6
   The purpose of the script is to identify the core implementation for learning the ML algorithms, evaluate and obtain the models and includes the ML algorithms: 
   Random Forest, Logistic Regression, Support-Vector Machine, AdaBoost and Gradient Boost
   The outcome of this script is to obtain the best performing ML algorithm per Plasmodium falciparum strain. 
@@ -40,7 +40,7 @@ Contains:
   The ML algorithms per Plasmodium falciparum strain (must be five csv files per strains pertaining to the 5 ML models described)
   Amoung the 5 csv files, the best performing ML algortihm must be chosen for the ML_Pipeline_Prediction_Runner
 
-#3. ML_Pipeline_Prediction_Runner
+#ML_Pipeline_Prediction_Runner
   Must run after the MLSyPred ML Models Antimalarial PIPELINE V 0.9.6
   The output file of the best performing model per Plasmodium falciparum strain will be selected as the input for this Machine Learning Prediction Runner PIPELINE
  
