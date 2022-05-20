@@ -8,7 +8,8 @@ This tool allows easy reproducibility of the process to obtain the models.
 It is flexible for incorporating different data types and other implementations of ML- models or mechanistic methods for synergistic drug combinations.
 
 Contains:
-#MLSyPred-COMBINATION PIPELINE
+
+# MLSyPred-COMBINATION PIPELINE
   The purpose of this script is to be able to perform average based on the presence of Morgan Fingerprints per pair of compounds.
   There are 2048 bit Morgan fingerprints (features) and 79 drug compounds.
  
@@ -25,7 +26,7 @@ Contains:
  OUTPUT files:
   Available in the Supplementary Material
 
-#MLSyPred ML Models Antimalarials PIPELINE V 0.9.6
+# MLSyPred ML Models Antimalarials PIPELINE V 0.9.6
   The purpose of the script is to identify the core implementation for learning the ML algorithms, evaluate and obtain the models and includes the ML algorithms: 
   Random Forest, Logistic Regression, Support-Vector Machine, AdaBoost and Gradient Boost
   The outcome of this script is to obtain the best performing ML algorithm per Plasmodium falciparum strain. 
@@ -40,7 +41,7 @@ Contains:
   The ML algorithms per Plasmodium falciparum strain (must be five csv files per strains pertaining to the 5 ML models described)
   Amoung the 5 csv files, the best performing ML algortihm must be chosen for the ML_Pipeline_Prediction_Runner
 
-#ML_Pipeline_Prediction_Runner
+# ML_Pipeline_Prediction_Runner
   Must run after the MLSyPred ML Models Antimalarial PIPELINE V 0.9.6
   The output file of the best performing model per Plasmodium falciparum strain will be selected as the input for this Machine Learning Prediction Runner PIPELINE
  
@@ -50,7 +51,7 @@ Contains:
  OUTPUT files:
     Predictions of new drugs
 
-#Datasets used were provided from:
+# Datasets used were provided from:
 
 Mason, D. J., Eastman, R. T., Lewis, R., Stott, I. P., Guha, R., & Bender, A. (2018). Using Machine Learning to Predict Synergistic Antimalarial Compound Combinations With Novel Structures. Frontiers in pharmacology, 9, 1096. https://doi.org/10.3389/fphar.2018.01096
 
