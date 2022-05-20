@@ -56,3 +56,7 @@ Contains:
 Mason, D. J., Eastman, R. T., Lewis, R., Stott, I. P., Guha, R., & Bender, A. (2018). Using Machine Learning to Predict Synergistic Antimalarial Compound Combinations With Novel Structures. Frontiers in pharmacology, 9, 1096. https://doi.org/10.3389/fphar.2018.01096
 
 Mott, B. T., Eastman, R. T., Guha, R., Sherlach, K. S., Siriwardana, A., Shinn, P., McKnight, C., Michael, S., Lacerda-Queiroz, N., Patel, P. R., Khine, P., Sun, H., Kasbekar, M., Aghdam, N., Fontaine, S. D., Liu, D., Mierzwa, T., Mathews-Griner, L. A., Ferrer, M., Renslo, A. R., … Thomas, C. J. (2015). High-throughput matrix screening identifies synergistic and antagonistic antimalarial drug combinations. Scientific reports, 5, 13891. https://doi.org/10.1038/srep13891
+
+# Authors
+
+Abiel Roche-Lima, Angélica M. Rosado-Quiñones, María Del Mar Figueroa-Gispert, Jennifer Díaz-Rivera, Roberto G. Díaz-González, Kelvin Carrasquillo-Carrion, Roberto A. Feliu-Maldonado, Pedro Fernández-Gochez, Brenda G. Nieves-Rodríguez, Emilee E. Colón-Lorenzo, and Adelfa E. Serrano
