@@ -1,0 +1,232 @@
+COMPOUND_1,COMPOUND_2,SYNERGY(Yes/No)
+Apicidin,Apicidin,Yes
+Apicidin,Chromomycin A3 from Streptomyces griseus,No
+Apicidin,Ciprofloxacin,No
+Apicidin,CK2 Inhibitor 2,No
+Apicidin,Dihydroergotamine,Yes
+Apicidin,FK-506,Yes
+Apicidin,Fulvestrant,No
+Apicidin,Guanethidine Sulfate,No
+Apicidin,Hydroxyzine,Yes
+Apicidin,Ingenol mebutate,Yes
+Apicidin,JX-401,No
+Apicidin,Megestrol acetate,No
+Apicidin,Paroxetine,No
+Apicidin,PDPK1 Inhibitor,Yes
+Apicidin,PI 828,No
+Apicidin,Raloxifene hydrochloride,No
+Apicidin,Sorafenib,No
+Apicidin,Thioridazine,No
+Apicidin,Trifluoperazine hydrochloride,No
+Apicidin,Virginiamycin s1,Yes
+Apicidin,Wortmannin,No
+Chromomycin A3 from Streptomyces griseus,Chromomycin A3 from Streptomyces griseus,No
+Chromomycin A3 from Streptomyces griseus,Ciprofloxacin,No
+Chromomycin A3 from Streptomyces griseus,CK2 Inhibitor 2,Yes
+Chromomycin A3 from Streptomyces griseus,Dihydroergotamine,No
+Chromomycin A3 from Streptomyces griseus,FK-506,No
+Chromomycin A3 from Streptomyces griseus,Fulvestrant,Yes
+Chromomycin A3 from Streptomyces griseus,Guanethidine Sulfate,No
+Chromomycin A3 from Streptomyces griseus,Hydroxyzine,No
+Chromomycin A3 from Streptomyces griseus,Ingenol mebutate,No
+Chromomycin A3 from Streptomyces griseus,JX-401,No
+Chromomycin A3 from Streptomyces griseus,Megestrol acetate,No
+Chromomycin A3 from Streptomyces griseus,Paroxetine,No
+Chromomycin A3 from Streptomyces griseus,PDPK1 Inhibitor,No
+Chromomycin A3 from Streptomyces griseus,PI 828,No
+Chromomycin A3 from Streptomyces griseus,Raloxifene hydrochloride,No
+Chromomycin A3 from Streptomyces griseus,Sorafenib,No
+Chromomycin A3 from Streptomyces griseus,Thioridazine,No
+Chromomycin A3 from Streptomyces griseus,Trifluoperazine hydrochloride,No
+Chromomycin A3 from Streptomyces griseus,Virginiamycin s1,No
+Chromomycin A3 from Streptomyces griseus,Wortmannin,No
+Ciprofloxacin,Ciprofloxacin,No
+Ciprofloxacin,CK2 Inhibitor 2,No
+Ciprofloxacin,Dihydroergotamine,Yes
+Ciprofloxacin,FK-506,No
+Ciprofloxacin,Fulvestrant,No
+Ciprofloxacin,Guanethidine Sulfate,No
+Ciprofloxacin,Hydroxyzine,No
+Ciprofloxacin,Ingenol mebutate,No
+Ciprofloxacin,JX-401,No
+Ciprofloxacin,Megestrol acetate,No
+Ciprofloxacin,Paroxetine,No
+Ciprofloxacin,PDPK1 Inhibitor,No
+Ciprofloxacin,PI 828,No
+Ciprofloxacin,Raloxifene hydrochloride,No
+Ciprofloxacin,Sorafenib,No
+Ciprofloxacin,Thioridazine,No
+Ciprofloxacin,Trifluoperazine hydrochloride,Yes
+Ciprofloxacin,Virginiamycin s1,No
+Ciprofloxacin,Wortmannin,No
+CK2 Inhibitor 2,CK2 Inhibitor 2,No
+CK2 Inhibitor 2,Dihydroergotamine,No
+CK2 Inhibitor 2,FK-506,No
+CK2 Inhibitor 2,Fulvestrant,No
+CK2 Inhibitor 2,Guanethidine Sulfate,No
+CK2 Inhibitor 2,Hydroxyzine,No
+CK2 Inhibitor 2,Ingenol mebutate,No
+CK2 Inhibitor 2,JX-401,No
+CK2 Inhibitor 2,Megestrol acetate,Yes
+CK2 Inhibitor 2,Paroxetine,Yes
+CK2 Inhibitor 2,PDPK1 Inhibitor,No
+CK2 Inhibitor 2,PI 828,No
+CK2 Inhibitor 2,Raloxifene hydrochloride,No
+CK2 Inhibitor 2,Sorafenib,No
+CK2 Inhibitor 2,Thioridazine,No
+CK2 Inhibitor 2,Trifluoperazine hydrochloride,No
+CK2 Inhibitor 2,Virginiamycin s1,No
+CK2 Inhibitor 2,Wortmannin,No
+Dihydroergotamine,Dihydroergotamine,No
+Dihydroergotamine,FK-506,Yes
+Dihydroergotamine,Fulvestrant,No
+Dihydroergotamine,Guanethidine Sulfate,Yes
+Dihydroergotamine,Hydroxyzine,Yes
+Dihydroergotamine,Ingenol mebutate,Yes
+Dihydroergotamine,JX-401,No
+Dihydroergotamine,Megestrol acetate,Yes
+Dihydroergotamine,Paroxetine,No
+Dihydroergotamine,PDPK1 Inhibitor,No
+Dihydroergotamine,PI 828,No
+Dihydroergotamine,Raloxifene hydrochloride,Yes
+Dihydroergotamine,Sorafenib,Yes
+Dihydroergotamine,Thioridazine,Yes
+Dihydroergotamine,Trifluoperazine hydrochloride,Yes
+Dihydroergotamine,Virginiamycin s1,Yes
+Dihydroergotamine,Wortmannin,No
+FK-506,FK-506,Yes
+FK-506,Fulvestrant,Yes
+FK-506,Guanethidine Sulfate,No
+FK-506,Hydroxyzine,Yes
+FK-506,Ingenol mebutate,Yes
+FK-506,JX-401,No
+FK-506,Megestrol acetate,No
+FK-506,Paroxetine,Yes
+FK-506,PDPK1 Inhibitor,No
+FK-506,PI 828,No
+FK-506,Raloxifene hydrochloride,Yes
+FK-506,Sorafenib,Yes
+FK-506,Thioridazine,Yes
+FK-506,Trifluoperazine hydrochloride,Yes
+FK-506,Virginiamycin s1,Yes
+FK-506,Wortmannin,No
+Fulvestrant,Fulvestrant,Yes
+Fulvestrant,Guanethidine Sulfate,No
+Fulvestrant,Hydroxyzine,Yes
+Fulvestrant,Ingenol mebutate,No
+Fulvestrant,JX-401,No
+Fulvestrant,Megestrol acetate,Yes
+Fulvestrant,Paroxetine,No
+Fulvestrant,PDPK1 Inhibitor,No
+Fulvestrant,PI 828,No
+Fulvestrant,Raloxifene hydrochloride,Yes
+Fulvestrant,Sorafenib,Yes
+Fulvestrant,Thioridazine,Yes
+Fulvestrant,Trifluoperazine hydrochloride,Yes
+Fulvestrant,Virginiamycin s1,No
+Fulvestrant,Wortmannin,No
+Guanethidine Sulfate,Guanethidine Sulfate,Yes
+Guanethidine Sulfate,Hydroxyzine,Yes
+Guanethidine Sulfate,Ingenol mebutate,No
+Guanethidine Sulfate,JX-401,No
+Guanethidine Sulfate,Megestrol acetate,No
+Guanethidine Sulfate,Paroxetine,Yes
+Guanethidine Sulfate,PDPK1 Inhibitor,No
+Guanethidine Sulfate,PI 828,Yes
+Guanethidine Sulfate,Raloxifene hydrochloride,Yes
+Guanethidine Sulfate,Sorafenib,No
+Guanethidine Sulfate,Thioridazine,Yes
+Guanethidine Sulfate,Trifluoperazine hydrochloride,Yes
+Guanethidine Sulfate,Virginiamycin s1,No
+Guanethidine Sulfate,Wortmannin,Yes
+Hydroxyzine,Hydroxyzine,Yes
+Hydroxyzine,Ingenol mebutate,No
+Hydroxyzine,JX-401,No
+Hydroxyzine,Megestrol acetate,Yes
+Hydroxyzine,Paroxetine,No
+Hydroxyzine,PDPK1 Inhibitor,Yes
+Hydroxyzine,PI 828,Yes
+Hydroxyzine,Raloxifene hydrochloride,No
+Hydroxyzine,Sorafenib,Yes
+Hydroxyzine,Thioridazine,No
+Hydroxyzine,Trifluoperazine hydrochloride,No
+Hydroxyzine,Virginiamycin s1,No
+Hydroxyzine,Wortmannin,No
+Ingenol mebutate,Ingenol mebutate,Yes
+Ingenol mebutate,JX-401,No
+Ingenol mebutate,Megestrol acetate,No
+Ingenol mebutate,Paroxetine,No
+Ingenol mebutate,PDPK1 Inhibitor,No
+Ingenol mebutate,PI 828,No
+Ingenol mebutate,Raloxifene hydrochloride,No
+Ingenol mebutate,Sorafenib,Yes
+Ingenol mebutate,Thioridazine,Yes
+Ingenol mebutate,Trifluoperazine hydrochloride,No
+Ingenol mebutate,Virginiamycin s1,No
+Ingenol mebutate,Wortmannin,No
+JX-401,JX-401,No
+JX-401,Megestrol acetate,No
+JX-401,Paroxetine,No
+JX-401,PDPK1 Inhibitor,No
+JX-401,PI 828,No
+JX-401,Raloxifene hydrochloride,No
+JX-401,Sorafenib,No
+JX-401,Thioridazine,No
+JX-401,Trifluoperazine hydrochloride,No
+JX-401,Virginiamycin s1,No
+JX-401,Wortmannin,No
+Megestrol acetate,Megestrol acetate,Yes
+Megestrol acetate,Paroxetine,No
+Megestrol acetate,PDPK1 Inhibitor,No
+Megestrol acetate,PI 828,No
+Megestrol acetate,Raloxifene hydrochloride,No
+Megestrol acetate,Sorafenib,No
+Megestrol acetate,Thioridazine,No
+Megestrol acetate,Trifluoperazine hydrochloride,Yes
+Megestrol acetate,Virginiamycin s1,Yes
+Megestrol acetate,Wortmannin,No
+Paroxetine,Paroxetine,No
+Paroxetine,PDPK1 Inhibitor,No
+Paroxetine,PI 828,No
+Paroxetine,Raloxifene hydrochloride,No
+Paroxetine,Sorafenib,No
+Paroxetine,Thioridazine,No
+Paroxetine,Trifluoperazine hydrochloride,No
+Paroxetine,Virginiamycin s1,Yes
+Paroxetine,Wortmannin,No
+PDPK1 Inhibitor,PDPK1 Inhibitor,No
+PDPK1 Inhibitor,PI 828,No
+PDPK1 Inhibitor,Raloxifene hydrochloride,Yes
+PDPK1 Inhibitor,Sorafenib,No
+PDPK1 Inhibitor,Thioridazine,Yes
+PDPK1 Inhibitor,Trifluoperazine hydrochloride,No
+PDPK1 Inhibitor,Virginiamycin s1,No
+PDPK1 Inhibitor,Wortmannin,No
+PI 828,PI 828,No
+PI 828,Raloxifene hydrochloride,No
+PI 828,Sorafenib,No
+PI 828,Thioridazine,No
+PI 828,Trifluoperazine hydrochloride,No
+PI 828,Virginiamycin s1,No
+PI 828,Wortmannin,No
+Raloxifene hydrochloride,Raloxifene hydrochloride,Yes
+Raloxifene hydrochloride,Sorafenib,No
+Raloxifene hydrochloride,Thioridazine,Yes
+Raloxifene hydrochloride,Trifluoperazine hydrochloride,Yes
+Raloxifene hydrochloride,Virginiamycin s1,Yes
+Raloxifene hydrochloride,Wortmannin,No
+Sorafenib,Sorafenib,Yes
+Sorafenib,Thioridazine,Yes
+Sorafenib,Trifluoperazine hydrochloride,Yes
+Sorafenib,Virginiamycin s1,Yes
+Sorafenib,Wortmannin,No
+Thioridazine,Thioridazine,No
+Thioridazine,Trifluoperazine hydrochloride,Yes
+Thioridazine,Virginiamycin s1,No
+Thioridazine,Wortmannin,No
+Trifluoperazine hydrochloride,Trifluoperazine hydrochloride,Yes
+Trifluoperazine hydrochloride,Virginiamycin s1,No
+Trifluoperazine hydrochloride,Wortmannin,No
+Virginiamycin s1,Virginiamycin s1,No
+Virginiamycin s1,Wortmannin,No
+Wortmannin,Wortmannin,No
